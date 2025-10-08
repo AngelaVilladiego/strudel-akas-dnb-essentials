@@ -163,5 +163,6 @@
         "/sfx/SFX7Am.wav",
         "/sfx/SFX8-Fm.wav",
         "/sfx/SFX9-Cm.wav"
-    ]
+    ],
+    "bass_loops": ["/bass_loops/0.wav"]
 }
